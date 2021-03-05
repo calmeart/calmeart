@@ -1,11 +1,11 @@
 ### Hello there, I'm Batuhan 👋
 
-View my [Github Page](https://calmeart.github.io/)
-
 I am an aspired, self-thaught, back-end developer with an engineering background
 
 - 🔭 I’m currently working on my own exercise project called Shopping Track
 - 🌱 I’m currently learning Intermediate Node.js principles
+
+View my [Github Page](https://calmeart.github.io/)
 
 #### Skills
 
@@ -24,7 +24,7 @@ I am an aspired, self-thaught, back-end developer with an engineering background
 [<img align="left" height="32" width="32" src="/icons/facebook.svg" />](https://www.facebook.com/b.doruk.ozturk)
 <br />
 
-###  Hobbies
+####  Hobbies
 
 Skiing, Hiking, Board Games, Chess
 
