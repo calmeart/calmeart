@@ -9,11 +9,20 @@ I am an aspired, self-thaught, back-end developer with an engineering background
 
 #### Skills
 
-Node.js Express MongoDB HTML CSS React
+<img align="left" height="32" width="32" src="/icons/node-dot-js.svg" />
+<img align="left" height="32" width="32" src="/icons/express.svg" />
+<img align="left" height="32" width="32" src="/icons/mongodb.svg" />
+<img align="left" height="32" width="32" src="/icons/html5.svg" />
+<img align="left" height="32" width="32" src="/icons/css3.svg" />
+<img align="left" height="32" width="32" src="/icons/react.svg" />
+<br />
 
 #### Contacts
 
-e-Mail freeCodeCamp Facebook
+[<img align="left" height="32" width="32" src="/icons/gmail.svg" />](mailto:batuhandoruk91@gmail.com)
+[<img align="left" height="32" width="32" src="/icons/freecodecamp.svg" />](https://forum.freecodecamp.org/u/Calmeart/summary)
+[<img align="left" height="32" width="32" src="/icons/facebook.svg" />](https://www.facebook.com/b.doruk.ozturk)
+<br />
 
 ###  Hobbies
 
