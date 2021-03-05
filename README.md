@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there, I'm Batuhan 👋
 
-<!--
-**calmeart/calmeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+View my [Github Page](https://calmeart.github.io/)
 
-Here are some ideas to get you started:
+I am an aspired, self-thaught, back-end developer with an engineering background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own exercise project called Shopping Track
+- 🌱 I’m currently learning Intermediate Node.js principles
+
+#### Skills
+
+Node.js Express MongoDB HTML CSS React
+
+#### Contacts
+
+e-Mail freeCodeCamp Facebook
+
+###  Hobbies
+
+Skiing, Hiking, Board Games, Chess
+
+- ⚡ Fun fact: I have onced hitchhiked through Eastern Europe for a month, covered around 5000 km and only spent around 20 euros.
+
