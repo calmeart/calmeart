@@ -1,4 +1,4 @@
-### Hello there, I'm Batuhan 👋
+## Hello there, I'm Batuhan 👋
 
 I am an aspired, self-thaught, back-end developer with an engineering background
 
@@ -7,7 +7,7 @@ I am an aspired, self-thaught, back-end developer with an engineering background
 
 View my [Github Page](https://calmeart.github.io/)
 
-#### Skills
+### Skills
 
 <img align="left" height="32" width="32" src="/icons/node-dot-js.svg" />
 <img align="left" height="32" width="32" src="/icons/express.svg" />
@@ -17,14 +17,14 @@ View my [Github Page](https://calmeart.github.io/)
 <img align="left" height="32" width="32" src="/icons/react.svg" />
 <br />
 
-#### Contacts
+### Contacts
 
 [<img align="left" height="32" width="32" src="/icons/gmail.svg" />](mailto:batuhandoruk91@gmail.com)
 [<img align="left" height="32" width="32" src="/icons/freecodecamp.svg" />](https://forum.freecodecamp.org/u/Calmeart/summary)
 [<img align="left" height="32" width="32" src="/icons/facebook.svg" />](https://www.facebook.com/b.doruk.ozturk)
 <br />
 
-####  Hobbies
+###  Hobbies
 
 Skiing, Hiking, Board Games, Chess
 
