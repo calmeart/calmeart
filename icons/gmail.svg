@@ -1,1 +1,58 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="gmail.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="30.625"
+     inkscape:cx="12"
+     inkscape:cy="11.934694"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Gmail icon</title>
+  <path
+     d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"
+     id="path4" />
+  <path
+     style="fill:#ea4335;stroke:#000000;stroke-width:0.123413;fill-opacity:1"
+     d="M 1.2983724,20.946478 C 0.69397394,20.815167 0.1766648,20.289331 0.04985391,19.677378 0.02587091,19.561643 0.01811549,17.279703 0.02464931,12.261224 0.03499875,4.3120549 0.01959945,4.9370592 0.21621718,4.4861463 0.39887135,4.0672566 0.80663318,3.6062043 1.2070951,3.3657703 1.6042382,3.1273288 2.2315988,2.9763824 2.6432543,3.0202226 c 0.283923,0.030237 0.6428923,0.1321512 0.8767189,0.2489073 0.111427,0.055639 2.0635879,1.4962588 4.3412513,3.2036776 L 12,9.5753835 16.138776,6.4728075 c 2.277663,-1.7074188 4.229824,-3.148039 4.341251,-3.2036776 0.413157,-0.206301 0.910491,-0.292373 1.34534,-0.2328339 1.002381,0.137245 1.781809,0.8076381 2.084281,1.7927074 0.05241,0.1706801 0.05691,0.6801685 0.0657,7.4322206 0.0065,5.018479 -0.0012,7.300419 -0.0252,7.416154 -0.133465,0.644066 -0.696643,1.184954 -1.337901,1.28495 -0.125393,0.01955 -0.997254,0.0332 -2.130612,0.03334 l -1.918368,2.46e-4 V 16.35918 c 0,-2.550204 -0.0098,-4.636735 -0.02175,-4.636735 -0.01197,0 -1.481317,1.094694 -3.265228,2.432653 -1.78391,1.337959 -3.258238,2.432653 -3.276284,2.432653 -0.01805,0 -1.492374,-1.094694 -3.2762841,-2.432653 -1.7839105,-1.337959 -3.253263,-2.432653 -3.2652274,-2.432653 -0.011965,0 -0.021754,2.086531 -0.021754,4.636735 v 4.636734 l -1.9673469,-0.0026 c -1.5253554,-0.002 -2.0131039,-0.01254 -2.1710154,-0.04684 z"
+     id="path837" />
+</svg>
