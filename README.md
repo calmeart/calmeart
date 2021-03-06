@@ -3,7 +3,7 @@
 I am an aspired, self-thaught, back-end developer with an engineering background
 
 - 🔭 I’m currently working on my own exercise project called Shopping Track
-- 🌱 I’m currently learning Intermediate Node.js principles
+- 🌱 I’m currently learning Node.js and React.js
 
 View my [Github Page](https://calmeart.github.io/)
 
@@ -28,5 +28,5 @@ View my [Github Page](https://calmeart.github.io/)
 
 Skiing, Hiking, Board Games, Chess
 
-- ⚡ Fun fact: I have onced hitchhiked through Eastern Europe for a month, covered around 5000 km and only spent around 20 euros.
+- ⚡ Fun fact: I have once hitchhiked through Eastern Europe for a month, covered around 5000 km and only spent around 20 euros.
 
