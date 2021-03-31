@@ -1,8 +1,8 @@
 ## Hello there, I'm Batuhan 👋
 
-I am an aspired, self-thaught, back-end developer with an engineering background
+I am a self-thaught, back-end developer with an engineering background
 
-- 🔭 I’m currently working on my own exercise project called Shopping Track
+- 🔭 I’m currently working on my solo projects
 - 🌱 I’m currently learning Node.js and React.js
 
 View my [Github Page](https://calmeart.github.io/)
