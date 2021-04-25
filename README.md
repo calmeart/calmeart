@@ -11,10 +11,12 @@ View my [Github Page](https://calmeart.github.io/)
 
 <img align="left" height="32" width="32" src="/icons/node-dot-js.svg" />
 <img align="left" height="32" width="32" src="/icons/express.svg" />
+<img align="left" height="32" width="32" src="/icons/react.svg" />
 <img align="left" height="32" width="32" src="/icons/mongodb.svg" />
+<img align="left" height="32" width="32" src="/icons/graphql.svg" />
 <img align="left" height="32" width="32" src="/icons/html5.svg" />
 <img align="left" height="32" width="32" src="/icons/css3.svg" />
-<img align="left" height="32" width="32" src="/icons/react.svg" />
+
 <br />
 
 ### Contact Me
